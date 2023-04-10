@@ -30,7 +30,7 @@ PrefabInstance:
     - target: {fileID: 1765096425784514776, guid: fb69474dad58c60439a9dc992f0cc623,
         type: 3}
       propertyPath: m_ColorTemperature
-      value: 10672
+      value: 4380
       objectReference: {fileID: 0}
     - target: {fileID: 7447361357581890396, guid: fb69474dad58c60439a9dc992f0cc623,
         type: 3}
@@ -94,6 +94,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb69474dad58c60439a9dc992f0cc623, type: 3}
+--- !u!1 &7640012870318107253 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7447361357581890396, guid: fb69474dad58c60439a9dc992f0cc623,
+    type: 3}
+  m_PrefabInstance: {fileID: 962803336121850153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9199944747396098275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7640012870318107253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36a854869b3c5f4887de056e9708890, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2693140954431134926
 PrefabInstance:
   m_ObjectHideFlags: 0
