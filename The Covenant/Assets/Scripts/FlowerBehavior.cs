@@ -26,7 +26,7 @@ public class FlowerBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.LookAt(target);
+        //transform.LookAt(target);
     }
 
     private void OnTriggerEnter(Collider other)
