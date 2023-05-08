@@ -6,9 +6,9 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Stones
-  m_DiffuseTexture: {fileID: 2800000, guid: fa963e59c1538eb44a0b27ec9150028f, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: ab7f73b67bba06d4d9463549b7ad11ad, type: 3}
+  m_Name: Transparent
+  m_DiffuseTexture: {fileID: 2800000, guid: 9f86394e919c7fb498b0d805a9058db5, type: 3}
+  m_NormalMapTexture: {fileID: 0}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
