@@ -70,12 +70,12 @@ PrefabInstance:
     - target: {fileID: 6891241438660505080, guid: 46e56c311c2c0ee42aaca4ee46913475,
         type: 3}
       propertyPath: m_Range
-      value: 6.4241314
+      value: 9.015563
       objectReference: {fileID: 0}
     - target: {fileID: 6891241438660505080, guid: 46e56c311c2c0ee42aaca4ee46913475,
         type: 3}
       propertyPath: m_Intensity
-      value: 12
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6891241438660505080, guid: 46e56c311c2c0ee42aaca4ee46913475,
         type: 3}

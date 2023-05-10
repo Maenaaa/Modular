@@ -75,7 +75,12 @@ PrefabInstance:
     - target: {fileID: 3375357203585392709, guid: 24771ce9e1248254295c2f808858395f,
         type: 3}
       propertyPath: m_Name
-      value: Sol1e
+      value: SolCrypte
       objectReference: {fileID: 0}
+    - target: {fileID: 3879658726510870928, guid: 24771ce9e1248254295c2f808858395f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ff60aa367750a404598515a3a962b3fe, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24771ce9e1248254295c2f808858395f, type: 3}

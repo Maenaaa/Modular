@@ -106,6 +106,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2509996001621834533}
     m_Modifications:
+    - target: {fileID: 1765096425784514776, guid: fb69474dad58c60439a9dc992f0cc623,
+        type: 3}
+      propertyPath: m_ColorTemperature
+      value: 4756
+      objectReference: {fileID: 0}
     - target: {fileID: 7447361357581890396, guid: fb69474dad58c60439a9dc992f0cc623,
         type: 3}
       propertyPath: m_Name
